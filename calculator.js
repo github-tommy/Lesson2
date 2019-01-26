@@ -1,5 +1,5 @@
-let rate = 100;
-let numberHours = 300;
+let rate = 300;
+let numberHours = 100;
 let tax = 0.1;
 let exchangeRate = 1.4;
 
