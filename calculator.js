@@ -1,4 +1,4 @@
-let rate = 10;
+let rate = 100;
 let numberHours = 300;
 let tax = 0.1;
 let exchangeRate = 1.4;
@@ -12,4 +12,3 @@ for (let i = 9; i >= 0; i--){
   }
   
   //Countdown//
-  
